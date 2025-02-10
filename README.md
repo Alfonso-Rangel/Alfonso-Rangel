@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Alfonso.  
+### **Backend Dev | Java & Spring Boot**  
+🎓 Computer Engineering Student @ **UAM** (Universidad Autónoma Metropolitana)  
+💻 Passionate about building robust, scalable systems | Currently diving deep into backend development.  
 
-<!--
-**Alfonso-Rangel/Alfonso-Rangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack    
+[![Languages](https://skillicons.dev/icons?i=js,java,html,css,c)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Backend](https://skillicons.dev/icons?i=spring,mysql,gradle)](https://skillicons.dev) 
+
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,clion,webstorm,windows,debian,git)](https://skillicons.dev)  
+---
+
+## 📫 Let's Connect!  
+- 💼 LinkedIn: (https://www.linkedin.com/in/alfonsorangel/)  
+- 📧 Email: **luisrangel187@hotmail.com**  
+---
